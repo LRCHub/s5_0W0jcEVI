@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "太陽系デスコ",
+  "base_artist": "Sou、ナユタン星人",
+  "createdAt": "2025-12-01T15:27:08.074963Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽系デスコ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_太陽系デスコ_ナユタン星人.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "太陽系デスコ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_02_太陽系デスコ_ナユタン星人.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "太陽系デスコ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_03_太陽系デスコ_ナユタン星人.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "太陽系デスコ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_04_太陽系デスコ_ナユタン星人.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "太陽系デスコ -崎山つばさver.-",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_05_太陽系デスコ_-崎山つばさver.-_ナユタン星人.txt"
+    }
+  ]
+}
